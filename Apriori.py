@@ -6,11 +6,11 @@ import numpy as np
 
 
 #initialize path for files
-path1 = ""
-path2 = ""
-path3 = ""
-path4 = ""
-path5 = ""
+path1 = "Midterm-Project---Data-Mining/data1.csv"
+path2 = "Midterm-Project---Data-Mining/data2.csv"
+path3 = "Midterm-Project---Data-Mining/data3.csv"
+path4 = "Midterm-Project---Data-Mining/data4.csv"
+path5 = "Midterm-Project---Data-Mining/data5.csv"
     
 data = pd.read_csv(path2, header = None)
 #rename columns to make it look cleaner
