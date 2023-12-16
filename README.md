@@ -1,4 +1,4 @@
-# Data-Mining Projects
+# Data Mining Projects
 
 ## Midterm Project: Apriori Method
 This project involves creating 5 datasets and using the Apriori method to generate association rules for the 5 datasets.
